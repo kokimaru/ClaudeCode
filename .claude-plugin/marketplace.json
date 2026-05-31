@@ -1,12 +1,8 @@
 {
-"name": "Security Marketplace",
-"description": "Security related plugins",
-"plugins": [
-{
-"id": "security-review",
-"name": "Security Review",
-"description": "Security review helper",
-"repository": "https://github.com/yourname/security-review-plugin.git"
-}
-]
+  "name": "kokimaru-marketplace",
+  "owner": {
+    "name": "kokimaru",
+    "url": "https://github.com/kokimaru"
+  },
+  "plugins": []
 }
